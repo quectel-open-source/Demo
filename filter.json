@@ -1,0 +1,18 @@
+{
+    "filter":{
+        "license_name":
+        {   
+            "start":["ql"],
+            "include":[],
+            "end":["native"],
+            "license_txt":["COPYING","LICENSE"]
+        },
+        "recipeinfo":
+        {
+            "LICENSE":["quectel","qualcomm"],
+            "PR":[],
+            "PV":[],
+            "URL":["codeaurora.org"]
+        }
+    }
+}
